@@ -1,0 +1,2 @@
+module YnovB3Desktop {
+}
